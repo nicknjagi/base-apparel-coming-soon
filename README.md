@@ -31,12 +31,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub repo](https://github.com/nicknjagi/base-apparel-coming-soon)
+- Live Site URL: [https://nicknjagi.github.io/base-apparel-coming-soon/](https://nicknjagi.github.io/base-apparel-coming-soon/)
 
 ## My process
 
