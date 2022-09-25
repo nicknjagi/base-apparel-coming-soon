@@ -185,7 +185,7 @@ a {
 
 @media (min-width:821px) {
     main {
-        background: url("/images/bg-pattern-desktop.SVG") no-repeat;
+        background: url("./images/bg-pattern-desktop.SVG") no-repeat;
         background-position: left;
         background-size: contain;
     }
