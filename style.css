@@ -247,4 +247,10 @@ a {
         bottom: 0;
         left: 10%;
     }
+    
+    @media (min-width:1280px){
+        main{
+            background-size: cover;
+        }
+    }
 }
