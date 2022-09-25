@@ -13,10 +13,8 @@ This is a solution to the [Base Apparel coming soon page challenge on Frontend M
   - [My process](#my-process)
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
-    - [Continued development](#continued-development)
     - [Useful resources](#useful-resources)
   - [Author](#author)
-
 
 ## Overview
 
@@ -32,7 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/screenshot.png)
+![](/images/screenshot.png)
 
 ### Links
 
@@ -51,15 +49,13 @@ Users should be able to:
 
 ### What I learned
 
+You can change the order of items in a flex or grid container using the `order` CSS property.
+This is the syntax:
 
-
-### Continued development
-
+    order = <integer> ;
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - 
-- [Example resource 2](https://www.example.com) - 
-
+- [mdn web docs - order](https://developer.mozilla.org/en-US/docs/Web/CSS/order)
 
 ## Author
 
