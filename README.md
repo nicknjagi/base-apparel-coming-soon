@@ -52,7 +52,12 @@ Users should be able to:
 You can change the order of items in a flex or grid container using the `order` CSS property.
 This is the syntax:
 
-    order = <integer> ;
+```css
+{
+  order = <integer> ;
+}
+```
+
 ### Useful resources
 
 - [mdn web docs - order](https://developer.mozilla.org/en-US/docs/Web/CSS/order)
